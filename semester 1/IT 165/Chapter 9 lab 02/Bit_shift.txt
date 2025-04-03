@@ -1,0 +1,1 @@
+TEST FILE. Test file is to see how shifting bits will alter the data in a file.

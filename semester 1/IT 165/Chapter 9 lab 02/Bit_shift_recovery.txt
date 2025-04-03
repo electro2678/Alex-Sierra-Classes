@@ -1,0 +1,5 @@
+66584D9C84ECD26142C2D1129AE4EA70
+56C961D7B4F9138B11F9EA535E19210B
+66584D9C84ECD26142C2D1129AE4EA70
+
+Bit_shift and Bit_shift_right have the same value as the bist were shifter left then back to the starting position.
